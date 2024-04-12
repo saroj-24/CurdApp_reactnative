@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "curdapp",
+    "slug": "curdapp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
